@@ -1,8 +1,16 @@
-# React + Vite
+# React Telegram Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This project is a replica of the Telegram messaging application built using ReactJS and TailwindCSS. It includes both desktop and mobile views 
 
-Currently, two official plugins are available:
+Live Project Link - https://telegram-livid-mu.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+To run this project locally, follow these steps:
+
+```bash
+git clone https://github.com/your-username/react-telegram-clone.git
+cd react-telegram-clone
+npm install
+npm start
+
