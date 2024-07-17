@@ -1,7 +1,7 @@
 # React Telegram Clone
 
 ## Description
-This project is a replica of the Telegram messaging application built using ReactJS and TailwindCSS. It includes both desktop and mobile views 
+This project is a replica of the Telegram messaging application built using ReactJS, Redux toolkit and TailwindCSS. It includes both desktop and mobile views 
 
 Live Project Link - https://telegram-livid-mu.vercel.app/
 
